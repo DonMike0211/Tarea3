@@ -1,0 +1,17 @@
+Modus Tollens es otro principio de inferencia válido en lógica formal que se utiliza para sacar conclusiones a partir de premisas condicionales. A diferencia de Modus Ponens, 
+Modus Tollens se centra en negar la consecuencia de una condición para llegar a una conclusión. La estructura de Modus Tollens es la siguiente:
+
+Si A, entonces B.
+B es falso.
+Por lo tanto, A es falso.
+En otras palabras, si sabemos que la afirmación "Si A, entonces B" es cierta, y luego encontramos que B es falso, 
+entonces podemos concluir de manera válida que A también debe ser falso, ya que la falsedad de B implica la falsedad de A en este contexto.
+
+Aquí hay un ejemplo de Modus Tollens:
+
+Premisa 1: Si Juan está en casa, entonces la luz del porche está encendida.
+Premisa 2: La luz del porche no está encendida.
+Conclusión: Por lo tanto, Juan no está en casa.
+
+En este ejemplo, la premisa 1 establece una relación condicional entre la ubicación de Juan y el estado de la luz del porche, y la premisa 2 nos dice que la luz del porche no está encendida. Usando Modus Tollens, podemos concluir que Juan no está en casa, ya que la premisa 2 indica que la consecuencia 
+(la luz encendida) es falsa, lo que implica que la condición inicial (la presencia de Juan en casa) también es falsa.
