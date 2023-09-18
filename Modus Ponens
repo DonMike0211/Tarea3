@@ -1,0 +1,15 @@
+Modus Ponens es un principio de inferencia válido en lógica formal que se utiliza para sacar conclusiones a partir de premisas condicionales. El Modus Ponens sigue la siguiente estructura:
+
+Si A, entonces B.
+A es verdadero.
+Por lo tanto, B es verdadero.
+En otras palabras, si sabemos que la afirmación "Si A, entonces B" es cierta y también sabemos que A es verdadero, entonces podemos concluir de manera válida que B también debe ser verdadero.
+
+Aquí hay un ejemplo de Modus Ponens:
+
+Premisa 1: Si es sábado, entonces no tengo que trabajar.
+Premisa 2: Hoy es sábado.
+Conclusión: Por lo tanto, no tengo que trabajar hoy.
+
+En este ejemplo, la premisa 1 establece una relación condicional entre el día de la semana y la necesidad de trabajar, y la premisa 2 nos dice que hoy es sábado. Por lo tanto, 
+utilizando el Modus Ponens, podemos concluir que no tenemos que trabajar hoy, ya que ambas premisas son verdaderas y cumplen con la estructura del Modus Ponens.
